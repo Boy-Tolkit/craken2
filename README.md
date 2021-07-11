@@ -1,2 +1,14 @@
-# craken2
-This is a craken 2 script, yes it is to take Facebook accounts in bulk, and the process is very fast
+# INSTALL
+```
+$ pkg install python
+$ pkg install git
+$ pkg install mechanize
+$ pip install requests
+$ pip install requests bs4
+```
+# RUN
+```
+$ git clone https://github.com/Boy-Tolkit/craken2
+$ cd craken2
+$ python craken2.py
+```
